@@ -17,4 +17,4 @@ const findTheOldest = function(birth, death) {
 };
 
 // Do not edit below this line
-module.exports = getAge;
+module.exports = getAge ;
